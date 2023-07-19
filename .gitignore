@@ -53,8 +53,12 @@ Plugins/*/Binaries/*
 Build/*
 _PKG/*
 
+# Platforms
+Platforms/*
+
 # Rider Specific?
 .idea/*
+Plugins/Developer/*
 Plugins/Developer/RiderLink/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
